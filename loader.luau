@@ -3,7 +3,7 @@ local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/rel
 local Window = WindUI:CreateWindow({
     Title = "the_real_Panda Loader v2.0",
     Icon = "bolt", -- lucide icon. optional
-    Author = "YT:@the_real_Panda-Skidder", -- optional
+    Author = "YT:@ANH LONG NHE EM YEU", -- optional
     Background = "rbxassetid://74732459344895"
 })
 
@@ -18,7 +18,7 @@ local Button = Tab:Button({
     Color = Color3.fromHex("#191970"),
     Locked = false,
     Callback = function()
-        setclipboard("https://beacons.ai/the_real_panda")
+        setclipboard("https://guns.lol/hnhtlong.10th3")
         WindUI:Notify({
             Title = "...",
             Content = "Copied!",
@@ -35,7 +35,7 @@ local Tab = Window:Tab({
 })
 
 local Button = Tab:Button({
-    Title = "Load redz script",
+    Title = "REDZ DIT ME THANG HUNG TUAT",
     Color = Color3.fromHex("#191970"),
     Locked = false,
     Callback = function()
@@ -50,7 +50,7 @@ local Button = Tab:Button({
 })
 
 local Button = Tab:Button({
-    Title = "Load bnn script",
+    Title = "CHUOI CHIN SCRIPT",
     Color = Color3.fromHex("#191970"),
     Locked = false,
     Callback = function()
@@ -65,7 +65,7 @@ local Button = Tab:Button({
 })
 
 local Tab = Window:Tab({
-    Title = "Black V Hub",
+    Title = "AUTO CAY ACC CLONE",
     Icon = "shapes", -- optional
     Locked = false,
 })
@@ -75,7 +75,7 @@ local Button = Tab:Button({
     Color = Color3.fromHex("#191970"),
     Locked = false,
     Callback = function()
-        setclipboard("https://beacons.ai/the_real_panda")
+        setclipboard("https://guns.lol/hnhtlong.10th3")
         WindUI:Notify({
             Title = "...",
             Content = "Copied!",
@@ -86,7 +86,7 @@ local Button = Tab:Button({
 })
 
 local Button = Tab:Button({
-    Title = "Load kaitun script",
+    Title = "AUTO CAY",
     Color = Color3.fromHex("#191970"),
     Locked = false,
     Callback = function()
@@ -101,7 +101,7 @@ local Button = Tab:Button({
 })
 
 local Button = Tab:Button({
-    Title = "Copy kaitun script",
+    Title = "SAO CHEP SCRIPT AUTO CAY",
     Color = Color3.fromHex("#191970"),
     Locked = false,
     Callback = function()
