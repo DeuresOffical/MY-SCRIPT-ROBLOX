@@ -1,7 +1,7 @@
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "the_real_Panda Loader v2.0",
+    Title = "LOADER DEURES",
     Icon = "bolt", -- lucide icon. optional
     Author = "YT:@ANH LONG NHE EM YEU", -- optional
     Background = "rbxassetid://74732459344895"
